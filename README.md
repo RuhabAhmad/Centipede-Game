@@ -1,2 +1,2 @@
 # Centipede-Game
-The Atari Centipede is a classic arcade game developed and published by Atari in 1981. It’s one of the most iconic games from the golden age of arcade gaming. I have developed it using SFML and C++
+The Atari Centipede is a classic arcade game developed and published by Atari in 1981. It’s one of the most iconic games from the golden age of arcade gaming. I recreated it using C++ and SFML, utilizing the library's capabilities to replicate the vibrant visuals, smooth gameplay mechanics, and nostalgic feel of the original. This project allowed me to bring a classic arcade experience to modern platforms while enhancing it with my own creative elements.
